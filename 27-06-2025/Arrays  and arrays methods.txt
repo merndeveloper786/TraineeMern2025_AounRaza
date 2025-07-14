@@ -1,0 +1,32 @@
+
+## Arrays in JavaScript
+
+Arrays ---->  An array is a special variable that can hold more than one value at a time. Arrays are used to store multiple values in a single variable, which can be accessed by their index.
+
+Example:
+let fruits = ["Apple", "Banana", "Mango"];
+
+# Uses of Arrays:
+- Store lists of items (numbers, strings, objects, etc.)
+- Loop through data
+- Perform operations on collections of data
+
+
+# Common Array Methods in JavaScript:
+- push()      // Add element to end
+- pop()       // Remove last element
+- shift()     // Remove first element
+- unshift()   // Add element to start
+- splice()    // Add/Remove elements at any position
+- slice()     // Copy a portion of the array
+- forEach()   // Run a function for each element
+- map()       // Create a new array by transforming each element
+- filter()    // Create a new array with elements that pass a test
+- find()      // Find the first element that matches a condition
+- includes()  // Check if array contains a value
+- indexOf()   // Get the index of a value
+- reduce()    // Reduce an array to single value
+- tostring    // convert array to string
+- concat      // return new array, does not change the existing array
+- sort        // will sort the arrays according to user requirement
+- from        // you can chngae object to array.

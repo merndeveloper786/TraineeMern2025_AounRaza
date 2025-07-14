@@ -1,0 +1,24 @@
+What is js
+Uses of js (frontend + backend)
+Ways to write js (separate file + using script tag)
+alert
+console.log
+prompt
+confirm
+installation node.js
+overview of node.js
+js use to set title
+js fo styling
+VAriable (var let const)
+typeof variable
+scope of variable
+Datatypes --> primitive datatypes (null, string, number, symbol, Bigint, Bolean, undefine)
+          --> Object (is contain key value pair )
+Conditionals --> if else, switch conditions
+operators --> Arithmetic, assignment,  comparison, logical, ternary
+Loops --> for loop, for in loop, for of loop, while loop, do while loop
+Functions --> simple and arrow function
+Strings
+
+
+
